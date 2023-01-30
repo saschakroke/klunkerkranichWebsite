@@ -1,8 +1,11 @@
-Flask-SQLAlchemy
-flask
 flask_login
+flask_bcrypt
 flask_wtf
 wtforms
-flask_bcrypt
-
+Flask
+FLask-SQLAlchemy
+mysql-connector-phyton
+mysqlclient
+PyMySQL
+SQLAlchemy
 
